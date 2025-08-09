@@ -44,3 +44,66 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+[![Project Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/indrakantm23/profile)
+
+## Project Overview
+
+This is a personal profile web application built with React, TypeScript, Vite, and Tailwind CSS. It showcases sections like About, Experience, Skills, and Contact, with modern UI components and responsive design.
+
+## Tech Stack
+
+- **React** (with TypeScript)
+- **Vite** (for fast development/build)
+- **Tailwind CSS** (utility-first styling)
+- **ESLint** (code linting)
+- **PostCSS**
+
+## Project Setup
+
+### Prerequisites
+
+- Node.js (v18 or above recommended)
+- npm (v9 or above recommended)
+
+### Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/indrakantm23/profile.git
+cd profile
+npm install
+```
+
+### Running Locally
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+
+### Building for Production
+
+```bash
+npm run build
+```
+
+The optimized build will be in the `dist` folder.
+
+### Linting
+
+```bash
+npm run lint
+```
+
+### Testing
+
+```bash
+npm test
+```
+
+---
